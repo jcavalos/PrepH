@@ -1,2 +1,1 @@
-# PrepH
-Pruebas modulo 2 de git SH 
+esta es una prueba de git clone y ponerlo en mi escritorio local 
